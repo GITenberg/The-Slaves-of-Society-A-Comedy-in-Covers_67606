@@ -1,0 +1,36 @@
+_repo: The-Slaves-of-Society-A-Comedy-in-Covers_67606
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Upward, Allen
+    alias: Upward, A. (Allen)
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '32167'
+    url: http://www.gutenberg.org/2009/agents/32167
+    wikipedia: https://en.wikipedia.org/wiki/Allen_Upward
+description: ''
+gutenberg_issued: '2022-03-11'
+identifiers:
+  gutenberg: '67606'
+  lccn: 00006839
+language: en
+pgterms:marc904: https://archive.org/details/slavessocietyac00upwagoog/mode/2up
+pgterms:marc905: 20200902125737upward
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, Access Services at Purdue University
+  Library, West Lafayette, Indiana, and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United States :Harper & Brothers,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Satire'
+- !lcc 'PR'
+- GITenberg
+title: 'The Slaves of Society: A Comedy in Covers'
+url: http://www.gutenberg.org/ebooks/67606
