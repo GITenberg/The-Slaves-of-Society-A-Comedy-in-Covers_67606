@@ -1,5 +1,8 @@
 _repo: The-Slaves-of-Society-A-Comedy-in-Covers_67606
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67606-h/images/cover.jpg
 creator:
   author:
     agent_name: Upward, Allen
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32167
     wikipedia: https://en.wikipedia.org/wiki/Allen_Upward
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67606#The-Slaves-of-Society-A-Comedy-in-Covers
 gutenberg_issued: '2022-03-11'
 identifiers:
   gutenberg: '67606'
